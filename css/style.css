@@ -1,0 +1,18 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.fild{
+    width: 800px;
+    margin: auto;
+    border-radius: 10px;
+}
+
+.leg{
+    text-align: center;
+}
+
+.img{
+    width: 150px;
+}
